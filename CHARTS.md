@@ -25,7 +25,7 @@ it is also the highest-returning one.
 
 ## Chart 2 — Return Distribution, Base Scenario
 
-![Return Distribution — Base Scenario](results/chart2_distribution_boxplot.png)
+![Return Distribution — Base Scenario](results/Return_Distribution.png)
 
 A notched boxplot showing the full distribution of 2,000 simulated returns
 per strategy under Base conditions. The notch represents the 95% confidence
@@ -43,7 +43,7 @@ as shown by the dotted $1M reference line well below all distributions.
 
 ## Chart 3 — Risk vs. Return, All Strategies & Scenarios
 
-![Risk vs. Return](results/chart3_risk_return_scatter.png)
+![Risk vs. Return](results/RiskvReturn.png)
 
 A scatter plot mapping each of the nine strategy × scenario combinations
 by risk (standard deviation of return on the x-axis) and expected return
@@ -64,7 +64,7 @@ ever approaches a loss.
 
 ## Chart 4 — Budget Allocation by Channel & Strategy
 
-![Budget Allocation by Channel & Strategy](results/chart4_allocation_breakdown.png)
+![Budget Allocation by Channel & Strategy](results/budgetallocation.png)
 
 A stacked bar chart showing how each strategy distributes the $1M budget
 across the five channels, expressed as a percentage.
