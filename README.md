@@ -105,4 +105,4 @@ in Google Colab. `sqlite3` is part of Python's standard library.
 | matplotlib 3.10.0  | Four output charts                                |
 | sqlite3            | Embedded database and SQL aggregation layer       |
 | Google Colab       | Development and execution environment             |
-| Claude Sonnet 4.6  | AI assistant used to design and build the project |
+| Claude Sonnet 4.6  | AI assistant |
