@@ -97,10 +97,12 @@ in Google Colab. `sqlite3` is part of Python's standard library.
 
 ## Tech Stack
 
-| Tool          | Role                                              |
-|---------------|---------------------------------------------------|
-| Python 3      | Core language                                     |
-| pandas 2.2.2  | Data wrangling and metric computation             |
-| numpy 2.0.2   | Monte Carlo simulation with log-normal draws      |
-| matplotlib 3.10.0 | Four output charts                            |
-| sqlite3       | Embedded database and SQL aggregation layer       |
+| Tool               | Role                                              |
+|--------------------|---------------------------------------------------|
+| Python 3           | Core language                                     |
+| pandas 2.2.2       | Data wrangling and metric computation             |
+| numpy 2.0.2        | Monte Carlo simulation with log-normal draws      |
+| matplotlib 3.10.0  | Four output charts                                |
+| sqlite3            | Embedded database and SQL aggregation layer       |
+| Google Colab       | Development and execution environment             |
+| Claude Sonnet 4.6  | AI assistant used to design and build the project |
