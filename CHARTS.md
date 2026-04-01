@@ -8,7 +8,7 @@ allocation strategy.
 
 ## Chart 1 — Expected Return by Strategy & Scenario
 
-![Expected Return by Strategy & Scenario](results/chart1_expected_returns.png)
+![Expected Return by Strategy & Scenario](results/Expected_Return_by_Strategy_Scenario.png)
 
 A grouped bar chart showing the average simulated return for each strategy
 across all three performance scenarios.
