@@ -13,7 +13,7 @@ allocation strategy.
 A grouped bar chart showing the average simulated return for each strategy
 across all three performance scenarios.
 
-Conservative leads in every scenario — $2.39M (Low), $3.69M (Base), and
+Conservative leads in every scenario, $2.39M (Low), $3.69M (Base), and
 $4.99M (High). The gap between strategies widens as conditions improve,
 with Conservative pulling $380,000 ahead of Balanced in the High scenario.
 The dotted line marks the original $1M budget, showing that every strategy
@@ -52,11 +52,11 @@ triangle for Low, circle for Base, upward triangle for High. Color encodes
 strategy.
 
 The chart reveals a clear structure. All three Low scenario points cluster
-in the bottom left — low risk, low return. Base and High points spread
+in the bottom left, low risk, low return. Base and High points spread
 rightward as volatility increases with higher market conditions. Conservative
 sits above both alternatives at every scenario level, meaning it achieves
 higher expected return at lower or comparable risk. Aggressive consistently
-sits furthest right — accepting the most risk — without achieving higher
+sits furthest right, accepting the most risk without achieving higher
 average return to compensate. The dotted $1M line confirms no combination
 ever approaches a loss.
 
@@ -71,10 +71,10 @@ across the five channels, expressed as a percentage.
 
 The differences in strategy philosophy are immediately visible. Conservative
 dedicates 35% to Content/SEO — the largest single allocation in the entire
-project — and keeps Social Media at just 5%. Balanced spreads budget with no
+project and keeps Social Media at just 5%. Balanced spreads budget with no
 channel below 15% or above 25%, reflecting its even-distribution philosophy.
 Aggressive puts 30% each into Content/SEO and Events & Partnerships, making
 it the only strategy that maxes out the high-volatility Events channel. This
 chart is the starting point for understanding why the strategies perform
-differently — the allocation decisions made here drive every result in the
+differently, the allocation decisions made here drive every result in the
 analysis.
