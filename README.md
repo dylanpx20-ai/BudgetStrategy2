@@ -12,7 +12,7 @@ A company has a fixed $1,000,000 annual marketing budget to allocate across
 five channels. This project asks: does the allocation strategy matter, and
 by how much?
 
-To answer that, the project simulates 18,000 outcomes across three strategies
+To answer that, the project simulates 18,000 possible budget outcomes across three strategies
 and three market scenarios, stores all data in SQLite, runs analytical SQL
 queries, and surfaces the tradeoffs through four charts and a decision summary.
 
