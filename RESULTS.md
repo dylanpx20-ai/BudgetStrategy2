@@ -164,4 +164,4 @@ dilutes returns without providing meaningful safety.
 **4. Strategy choice depends on what you are optimizing for.**
 Under uncertainty, Conservative is the dominant choice across every metric
 except maximum upside. If an organization has a specific high-return target
-that requires tail-end outcomes, Aggressive is the rational bet — but only then.
+that requires tail-end outcomes, Aggressive is the rational bet, but only then.
